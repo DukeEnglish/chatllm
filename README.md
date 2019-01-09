@@ -1,1 +1,1 @@
-Source for [alopez.github.io], based on [Hydejack](https://hydejack.com/).
+Source for [Dukeenglish.github.io], based on [alopez](alopez.github.io).

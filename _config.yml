@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://alopez.github.io
+url:                   https://dukeenglish.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -16,32 +16,32 @@ baseurl:               ''
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  en
+lang:                  zh
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Adam Lopez
+title:                 Junyi Li
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Adam Lopez at the University of Edinburgh
+  Junyi Li at the University of Edinburgh
 
 # A shorter description for the sidebar.
 tagline:               >
   University of Edinburgh
 
 # A list of keywords for your blog.
-keywords:              []
+keywords:              [李俊毅, 俊毅, ML, DL]
 
 # Used by jekyll-seo-tag.
-logo:                  /assets/img/me.jpg
+logo:                  /assets/img/taiyang.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                Adam Lopez
-  picture:             /assets/img/me.jpg
+  name:                李俊毅
+  picture:             /assets/img/taiyang.jpg
   social:
-    email:               'alopez@inf.ed.ac.uk'
+    email:               '4ljy@163.com'
     github:              alopez
 
 # This text will appear in a `<small>` tag in the footer of every page.

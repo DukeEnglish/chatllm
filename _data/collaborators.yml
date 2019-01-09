@@ -1,4 +1,46 @@
+member-in-seminer:
+  -
+    name: Green Lv
+    img: edi
+    url: http://homepages.inf.ed.ac.uk/s1459276/
+    <!-- url: https://nbogoychev.com -->
+    tagline: PhD student, 中科院
+    description: >
+      Computer science
+  - 
+    name: Ye Yang
+    img: edi
+    url: http://homepages.inf.ed.ac.uk/s1459276/
+    <!-- url: https://nbogoychev.com -->
+    tagline: PhD student, 中科院
+    description: >
+      Computer science
+
 phd-students-first:
+  
+phd-students-second:
+  -
+    name: Janie Sinclair
+    url: http://www.inf.ed.ac.uk/people/students/Arabella_Jane_Sinclair.html
+    tagline: "Dialogue and educational NLP. Primary advisor: Dragan Gašević. Co-advised with Chris Lucas."
+project-students:
+former-phd:
+  -
+    name: Michael Auli
+    url: http://michaelauli.github.io/ 
+    tagline: PhD 2012. Now at Facebook AI Research.
+    description: >
+      During our collaboration Michael developed the most accurate known 
+      parser for combinatory categorial grammar, a linguistically expressive 
+      grammar formalism. After graduation Michael began working on neural
+      translation, and is one of the key researchers behind Facebook's 
+      <a href="https://code.facebook.com/posts/1978007565818999/a-novel-approach-to-neural-machine-translation/">convolutional machine translation system</a>.  -
+  
+former-collaborators:
+  - 
+    name: Adam Lopez
+    url: alopez.github.io
+    tagline: My advisor in the University of Edinburgh
   - 
     name: Sameer Bansal
     url: http://homepages.inf.ed.ac.uk/s1444673
@@ -19,23 +61,6 @@ phd-students-first:
     name: Clara Vania
     url: https://claravania.github.io/
     tagline: Deep learning and morphology.
-phd-students-second:
-  -
-    name: Janie Sinclair
-    url: http://www.inf.ed.ac.uk/people/students/Arabella_Jane_Sinclair.html
-    tagline: "Dialogue and educational NLP. Primary advisor: Dragan Gašević. Co-advised with Chris Lucas."
-project-students:
-former-phd:
-  -
-    name: Michael Auli
-    url: http://michaelauli.github.io/ 
-    tagline: PhD 2012. Now at Facebook AI Research.
-    description: >
-      During our collaboration Michael developed the most accurate known 
-      parser for combinatory categorial grammar, a linguistically expressive 
-      grammar formalism. After graduation Michael began working on neural
-      translation, and is one of the key researchers behind Facebook's 
-      <a href="https://code.facebook.com/posts/1978007565818999/a-novel-approach-to-neural-machine-translation/">convolutional machine translation system</a>.  -
   -
     name: Federico Fancellu
     url: https://ffancellu.github.io/
@@ -45,11 +70,6 @@ former-phd:
       of negation in English and Chinese. He now a postdoc with my colleague
       Mirella Lapata and we continue to collaborate with Sorcha Gilroy
       on semantic parsing.
-former-masters:
-  - 
-    name: Despoina Christou
-    url: https://www.linkedin.com/in/despoinachristou
-    tagline: MSc 2016. Now PhD student at Aristotle University of Thessaloniki.
   -
     name: Andreas Grivas
     url: http://grv.overfit.xyz/
@@ -61,182 +81,4 @@ former-masters:
   -
     name: Junyi Li
     tagline: MSc 2017.
-  -
-    name: Moise Lubwimi
-    url: http://www.moiselubwimi.com/
-    tagline: MInf 2018.
-  - 
-    name: Evangelia Lypiridi
-    tagline: MSc 2016.
-  -
-    name: Lena Reisinger
-    tagline: MInf 2017.
-  -
-    name: Adithya Renduchintala
-    url: https://arendu.github.io/
-    tagline: PhD student at Johns Hopkins University. Adi amicably switched advisors after I moved to the University of Edinburgh, and is still at Johns Hopkins. 
-  -
-    name: Jason R. Smith
-    tagline: former PhD student at Johns Hopkins University. Now at Google.
-  - 
-    name: Ida Szubert
-    url: http://www.inf.ed.ac.uk/people/students/Katarzyna_Ida_Szubert.html
-    tagline: "MSc 2016. Now PhD student at University of Edinburgh, advised by Mark Steedman."
-  - 
-    name: Ieva Vasiljeva
-    url: https://www.linkedin.com/in/ievavasiljeva/
-    tagline: MSc 2017. Now at Improbable.
-  -
-    name: Arthur Verkaik
-    tagline: MInf 2017. 
-  - 
-    name: Justas Zemgulys
-    tagline: MInf 2018. Now at Amazon.
-    url: "https://www.linkedin.com/in/justas-%C5%BEemgulys-96a77469/"
-former-ug:
-  - 
-    name: Ramona Comanescu
-    tagline: BSc 2018. Now MPhil student in Cambridge.
-  -
-    name: Iulia Banghea
-    tagline: BSc 2017.
-former-visitors:
-  - 
-    name: Chip Huyen
-    url: https://huyenchip.com/
-    tagline: Visiting BSc student from Stanford University, summer 2016. 
-  -
-    name: Katarzyna Pruś
-    url: https://www.linkedin.com/in/katarzyna-pru%C5%9B-6bb609107?ppe=1
-    tagline: Visiting BSc student from University of Dundee, summer 2015. MPhil at University of Cambridge, now back in Edinburgh at the <a href="http://datascience.inf.ed.ac.uk/">CDT in Data Science</a>.
-  - 
-    name: Pijus Simonaitis
-    url: https://www.linkedin.com/in/pijus-simonaitis-734594bb/?ppe=1
-    tagline: Visiting MSc student from École Normale Supérieure de Lyon, summer 2016. Now PhD student at Montpellier Laboratory of Computer Science, Robotics, and Microelectronics.
-collaborators:
-  -
-    name: Antonios Anastasopoulos
-    tagline: University of Notre Dame.
-    url: https://www3.nd.edu/~aanastas/
-  -
-    name: Abhishek Arun
-    tagline: Bing.
-    url: https://www.linkedin.com/in/abhishek-arun-136825/?ppe=1
-  -
-    name: Phil Blunsom
-    url: http://www.cs.ox.ac.uk/people/phil.blunsom/
-    tagline: Deepmind / University of Oxford.
-  -
-    name: Chris Callison-Burch
-    url: http://www.cis.upenn.edu/~ccb/
-    tagline: University of Pennsylvania.
-  -
-    name: Jianpeng Cheng
-    url: https://cheng6076.github.io/
-    tagline: Apple. 
-  -
-    name: David Chiang
-    url: http://www3.nd.edu/~dchiang/
-    tagline: University of Notre Dame.
-  -
-    name: Frank Drewes
-    url: https://www.umu.se/en/staff/frank-drewes/
-    tagline: Umeå University.
-  -
-    name: Chris Dyer
-    url: http://www.cs.cmu.edu/~cdyer/
-    tagline: Deepmind / Carnegie Mellon University.
-  -
-    name: Juri Ganitkevitch
-    url: http://cs.jhu.edu/~juri/
-    tagline: Google.
-  -
-    name: Sharon Goldwater
-    url: http://homepages.inf.ed.ac.uk/sgwater/
-    tagline: University of Edinburgh.
-  -
-    name: Daniel Gildea
-    url: https://www.cs.rochester.edu/u/gildea/
-    tagline: University of Rochester.
-  -
-    name: Barry Haddow
-    url: http://homepages.inf.ed.ac.uk/bhaddow/
-    tagline: University of Edinburgh.
-  -
-    name: Hua He
-    tagline: University of Maryland.
-  -
-    name: Hieu Hoang
-    url: http://moses-smt.org/
-    tagline: Moses Machine Translation CIC.
-  -
-    name: Rebecca Hwa
-    url: http://people.cs.pitt.edu/~hwa/
-    tagline: University of Pittsburgh.
-  -
-    name: Herman Kamper
-    url: http://www.kamperh.com/
-    tagline: Stellenbosch University.
-  -
-    name: Sanjeev Khudanpur
-    url: http://old-site.clsp.jhu.edu/~sanjeev/
-    tagline: Johns Hopkins University.
-  -
-    name: Philipp Koehn
-    url: http://www.cs.jhu.edu/~phi/
-    tagline: Johns Hopkins University.
-  -
-    name: Gaurav Kumar
-    url: http://cs.jhu.edu/~gkumar/
-    tagline: Johns Hopkins University.
-  - 
-    name: Mirella Lapata
-    url: http://homepages.inf.ed.ac.uk/mlap/
-    tagline: University of Edinburgh.
-  -
-    name: Jimmy Lin
-    url: https://cs.uwaterloo.ca/~jimmylin/index.html
-    tagline: University of Waterloo.
-  - 
-    name: Karen Livescu
-    url: http://ttic.uchicago.edu/~klivescu/
-    tagline: Totyota Technical Institute Chicago.
-  -
-    name: Sebastian Maneth
-    url: http://user.informatik.uni-bremen.de/smaneth/
-    tagline: University of Bremen.
-  -
-    name: Nitin Madnani
-    url: http://desilinguist.org/
-    tagline: Educational Testing Service.
-  -
-    name: Christof Monz
-    url: http://staff.science.uva.nl/~christof/
-    tagline: University of Amsterdam.
-  -
-    name: Matt Post
-    url: http://www.cs.jhu.edu/~post/
-    tagline: Johns Hopkins University.
-  -
-    name: Philip Resnik
-    url: http://www.umiacs.umd.edu/%7Eresnik/
-    tagline: University of Maryland.
-  - 
-    name: Giorgio Satta
-    url: http://www.dei.unipd.it/~satta/
-    tagline: University of Padua.
-  -
-    name: Nathan Schneider
-    url: http://people.cs.georgetown.edu/nschneid/
-    tagline: Georgetown University.
-  -
-    name: Bonnie Webber
-    url: http://homepages.inf.ed.ac.uk/bonnie/
-    tagline: University of Edinburgh.
-  -
-    name: Jonathan Weese
-    url: http://cs.jhu.edu/~jonny/
-    tagline: Facebook.
-  - 
-    name: Dominikus Wetzel
-    tagline: University of Edinburgh.
+

@@ -8,9 +8,9 @@ order:  6
 
 ## 欢迎直接扫描添加微信，共同进步
 <p align="center">
-    <img src="https://raw.githubusercontent.com/DukeEnglish/Dukeenglish.github.io/master/assets/QRcode/weixinQR.jpeg" alt="Sample"  width="140" height="200">
+    <img src="https://raw.githubusercontent.com/DukeEnglish/Dukeenglish.github.io/master/assets/QRcode/weixinQR.jpeg" alt="Sample"  width="140" height="180">
     <p align="center">
-        <em>weixin</em>
+        <em>Wechat</em>
     </p>
 </p>
 

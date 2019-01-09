@@ -11,34 +11,17 @@ order:  3
 >
 > ---Talmud
 
-## PhD students
-### Advisees
-{% include collaborator.html people=site.data.collaborators.phd-students-first %}
+## member-in-seminer:
 
-### Student coauthors
-{% include collaborator.html people=site.data.collaborators.phd-students-second %}
+{% include collaborator.html people=site.data.collaborators.member-in-seminer %}
 
 <!--
 <h4>Master's and undergraduate project students</h4>
 {% include collaborator.html people=page.project-students show=false %}
 -->
 
-## Alumni
-### PhD
-{% include collaborator.html people=site.data.collaborators.former-phd %}
-
-### Master's
-{% include collaborator.html people=site.data.collaborators.former-masters %}
-
-### Undergraduates
-{% include collaborator.html people=site.data.collaborators.former-ug %}
-
-### Visiting students
-{% include collaborator.html people=site.data.collaborators.former-visitors %}
-
-## Collaborators past and present
-{% include collaborator.html people=site.data.collaborators.collaborators %}
-
+## Former-collaborators
+{% include collaborator.html people=site.data.collaborators.former-collaborators %}
 ---
 
 I am conservative about who I add to this list.

@@ -7,11 +7,35 @@ order:  6
 ---
 
 ## 欢迎直接扫描添加微信，共谋大事
-![image](https://raw.githubusercontent.com/DukeEnglish/Dukeenglish.github.io/master/assets/QRcode/weixinQR.jpeg)
+<p align="center">
+    <img src="https://raw.githubusercontent.com/DukeEnglish/Dukeenglish.github.io/master/assets/QRcode/weixinQR.jpeg" alt="Sample"  width="250" height="140">
+    <p align="center">
+        <em>weixin</em>
+    </p>
+</p>
+
+![image]()
 
 ## 欢迎各种打赏。可以扫描下方二维码，获取支付宝红包
-![image](https://raw.githubusercontent.com/DukeEnglish/Dukeenglish.github.io/master/assets/QRcode/readbag.png)
+<p align="center">
+    <img src="https://raw.githubusercontent.com/DukeEnglish/Dukeenglish.github.io/master/assets/QRcode/zhifubaohongbao.png" alt="Sample"  width="250" height="140">
+    <p align="center">
+        <em>zhifubao</em>
+    </p>
+</p>
+
+
 
 ## 提供有偿咨询，大厂内推。300/h.微信联系
-![image](https://raw.githubusercontent.com/DukeEnglish/Dukeenglish.github.io/master/assets/QRcode/zhifubao.jpeg)
-![image](https://raw.githubusercontent.com/DukeEnglish/Dukeenglish.github.io/master/assets/QRcode/weixin.jpeg)
+<p align="center">
+    <img src="ttps://raw.githubusercontent.com/DukeEnglish/Dukeenglish.github.io/master/assets/QRcode/wexin.jpeg" alt="Sample"  width="250" height="140">
+    <p align="center">
+        <em>zhifubao</em>
+    </p>
+</p>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/DukeEnglish/Dukeenglish.github.io/master/assets/QRcode/zhifubao.jpeg" alt="Sample"  width="250" height="140">
+    <p align="center">
+        <em>zhifubao</em>
+    </p>
+</p>

@@ -30,7 +30,7 @@ before-pubs:
     items:
       -
         title: 个人简历
-        year: 2018.5
+        year: 2018.12
         detail: <a href="https://github.com/DukeEnglish/DukeEnglish.github.io/tree/master/Resume">个人简历</a>
       -
         title: 毕业设计

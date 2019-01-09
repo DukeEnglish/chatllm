@@ -12,14 +12,13 @@ author1:
 
   # This photo will be used in the about section.
   picture:
-    path:            assets/img/huahua.png
+    path:            assets/img/taiyang.png
 
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
     email:             4ljy@163.com
-    github:            JunyiLi
-    twitter:           there_are_two_
+    github:            dukeenglish
     zhihu:             https://www.zhihu.com/people/ljyduke/activities
   
     # linkedin:        <firstname-lastname-string>

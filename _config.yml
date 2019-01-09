@@ -39,7 +39,7 @@ logo:                  /assets/img/taiyang.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   name:                李俊毅
-  picture:             /assets/img/taiyang.jpg
+  picture:             /assets/img/taiyang.png
   social:
     email:               '4ljy@163.com'
     github:              dukeenglish

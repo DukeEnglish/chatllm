@@ -34,7 +34,7 @@ tagline:               >
 keywords:              [李俊毅, 俊毅, ML, DL]
 
 # Used by jekyll-seo-tag.
-logo:                  /assets/img/taiyang.png
+logo:                  /assets/img/taiyangsmall.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:

@@ -39,11 +39,6 @@ former-collaborators:
     name: Federico Fancellu
     url: https://ffancellu.github.io/
     tagline: "PhD 2018. Primary advisor: Bonnie Webber."
-    description: >
-      Federico developed state-of-the-art models for computational detection
-      of negation in English and Chinese. He now a postdoc with my colleague
-      Mirella Lapata and we continue to collaborate with Sorcha Gilroy
-      on semantic parsing.
   -
     name: Andreas Grivas
     url: http://grv.overfit.xyz/
@@ -52,7 +47,4 @@ former-collaborators:
     name: Yova Kementchedjhieva
     url: https://yovakem.github.io/
     tagline: MSc 2017. Now PhD student at University of Copenhagen.
-  -
-    name: Junyi Li
-    tagline: MSc 2017.
 

@@ -42,6 +42,14 @@ I am working at meituan-dianping (美团点评) now. Feel free to contact me via
 
 ## Current Highlights
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-7419738440913608",
+    enable_page_level_ads: true
+  });
+</script>
+
 <ul>
 {% for paper in site.data.papers.papers %}
   {% if paper.selected %}

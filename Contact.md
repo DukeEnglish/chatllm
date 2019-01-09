@@ -26,7 +26,7 @@ order:  6
 
 
 
-## 提供有偿咨询，国内外互联网大厂内推。300/h.微信联系
+## 提供有偿咨询，国内外互联网大厂内推，面试辅导，模拟面试。300/h.微信联系
 <p align="center">
     <img src="https://raw.githubusercontent.com/DukeEnglish/Dukeenglish.github.io/master/assets/QRcode/wexin.jpeg" alt="Sample"  width="140" height="200">
     <p align="center">

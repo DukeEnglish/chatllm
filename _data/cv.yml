@@ -35,4 +35,4 @@ before-pubs:
       -
         title: 毕业设计
         year: 2017.8
-        detail: <a href="https://github.com/DukeEnglish/DukeEnglish.github.io/blob/master/Resume/language-model-gpu.pdf">Lanuage on GPU</a>
+        detail: <a href="https://github.com/DukeEnglish/DukeEnglish.github.io/blob/master/Resume/language-model-gpu.pdf">Language model on GPU</a>

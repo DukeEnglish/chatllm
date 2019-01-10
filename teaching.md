@@ -12,7 +12,7 @@ order:  2
 
 ## Some useful links:
 * [NLP技术合集](http://nlpprogress.com/)
-* [How to do research](https://sweb.inf.ed.ac.uk/bundy/how-tos/resbible.html)
+* [How to do research or the advice to become a doctor](https://sweb.inf.ed.ac.uk/bundy/how-tos/resbible.html)
 * [How to Read a Paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)
 * [Prof. Keshav](http://blizzard.cs.uwaterloo.ca/keshav/wiki/index.php/Main_Page)
 * [A Research to Engineering Workflow](http://dustintran.com/blog/a-research-to-engineering-workflow)

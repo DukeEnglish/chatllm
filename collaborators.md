@@ -6,10 +6,8 @@ menu:   true
 order:  3
 ---
 
-> _Much have I learned from my teachers, more from my colleagues, but most 
-> from my students._
+> _聚是一团火，散是满天星_
 >
-> ---Talmud
 
 ## member-in-seminer:
 

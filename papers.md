@@ -6,9 +6,9 @@ menu:   true
 order:  1
 ---
 
-> _I would have written a shorter letter, but I did not have the time._
+> _The two most important days are the day you are born and the day you find out why._
 >
-> ---Blaise Pascal
+> ---Mark Twain
 
 <ul>
 {% for paper in site.data.papers.papers %}

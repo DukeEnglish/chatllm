@@ -9,7 +9,7 @@ I am working at meituan-dianping (美团点评) now. Feel free to contact me via
 ## 愿景
 赋能人类，使人类变得更强大
 
-##使命
+## 使命
 让身边的人变得更好
 
 ## ATTENTION

@@ -14,6 +14,7 @@ I am working at meituan-dianping (美团点评) now. Feel free to contact me via
 
 ## ATTENTION
 学会从手头的事情中发觉乐趣，定期总结发现收益点
+内紧外松
 
 ## Thoughts
 * 早知道，要是，如果，xxx就好了，我本可以。。。。简直就是世界上最可怕的开头

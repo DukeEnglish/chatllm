@@ -10,6 +10,7 @@ order:  6
 
 
 ## 欢迎直接扫描添加微信，共同进步
+### 话说，有兴趣创业的小伙伴，或者已经在创业的小伙伴欢迎联系～
 <!-- 我对于一些和教育相关的AI岗位非常感兴趣。除此以外，也对物联网，智慧家居，语音相关保持浓烈的兴趣，如果你能看到这一条，我相信我们可以有很好的沟通。 -->
 <p align="center">
     <img src="https://raw.githubusercontent.com/DukeEnglish/Dukeenglish.github.io/master/assets/QRcode/weixinQR.jpeg" alt="Sample"  width="140" height="180">

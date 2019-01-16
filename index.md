@@ -17,7 +17,7 @@ I am working at meituan-dianping (美团点评) now. Feel free to contact me via
 内紧外松
 
 ## 原则
-一诺千金
+答应的事情一定尽力做
 
 ## Current Highlights
 

@@ -6,18 +6,18 @@ cover: false
 
 I am working at meituan-dianping (美团点评) now. Feel free to contact me via wechat: 547160794. I am open to make friends with you. :D
 
-## 愿景
+## Vision
 赋能人类，使人类变得更强大
 
-## 使命
+## Mission
 让身边的人变得更好
 
-## ATTENTION
-学会从手头的事情中发觉乐趣，定期总结发现收益点
-内紧外松
+## Principle
+诚信
 
-## 原则
-答应的事情一定尽力做
+## Attention
+学会从手头的事情中发掘乐趣，定期总结发现收益点
+内紧外松
 
 ## Current Highlights
 

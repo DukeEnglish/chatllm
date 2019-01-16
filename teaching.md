@@ -11,6 +11,7 @@ order:  2
 > ---The pursuit of happiness
 
 ## Some useful links:
+* [使命、愿景、价值观](https://zi.com/w/a/7a6auz)
 * [NLP技术合集](http://nlpprogress.com/)
 * [How to do research or the advice to become a doctor](https://sweb.inf.ed.ac.uk/bundy/how-tos/resbible.html)
 * [How to Read a Paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)

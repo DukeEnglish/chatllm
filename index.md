@@ -10,7 +10,7 @@ I am working at meituan-dianping (美团点评) now. Feel free to contact me via
 赋能人类，使人类变得更强大
 
 ## Mission
-让影响圈内的人变得更好
+The only thing that I want to do is to help people around become better
 
 ## Principle
 诚信

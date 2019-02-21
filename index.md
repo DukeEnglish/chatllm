@@ -7,13 +7,13 @@ cover: false
 I am working at meituan-dianping (美团点评) now. Feel free to contact me via wechat: 547160794. I am open to make friends with you. :D
 
 ## Vision
-赋能人类，使人类变得更强大
+Enable Humanity
 
 ## Mission
-The only thing that I want to do is to help people around become better
+The only thing that I want to do is to help people around me become better
 
 ## Principle
-诚信
+Honesty
 
 ## Attention
 学会从手头的事情中发掘乐趣，定期总结发现收益点

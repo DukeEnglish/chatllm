@@ -4,8 +4,9 @@ title: About me
 cover: false
 ---
 
-I am working at meituan-dianping (美团点评) now. Feel free to contact me via wechat: 547160794. I am open to make friends with you. :D
+I am working on NLP problems now. Feel free to contact me via wechat: 547160794. I am open to make friends with you. :D
 
+Also things about education, economy and management are interesting to me too. 
 ## Vision
 Enable Humanity
 

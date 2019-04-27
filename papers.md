@@ -10,6 +10,7 @@ order:  1
 >
 > ---Mark Twain
 
+> Just care about what I've done instead of what I did
 <ul>
 {% for paper in site.data.papers.papers %}
   <li>

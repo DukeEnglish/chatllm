@@ -14,7 +14,8 @@ Enable Humanity
 The only thing that I want to do is to help people around me become better
 
 ## Principle
-Honesty
+~~Honesty~~ 
+Nature
 
 ## Attention
 学会从手头的事情中发掘乐趣，定期总结发现收益点

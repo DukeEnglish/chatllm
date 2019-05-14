@@ -4,7 +4,7 @@ title: About me
 cover: false
 ---
 
-** Thank you Tony Stark... I mean Iron Man **
+**Thank you Tony Stark... I mean, Iron Man**
 
 I am working on NLP problems now. Feel free to contact me via wechat: 547160794. I am open to make friends with you. :D
 

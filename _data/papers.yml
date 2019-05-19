@@ -1,15 +1,12 @@
 papers:
   - layout: paper
-    year: 2017.12.28
+    year: 2019
     paper-type: published
     selected: yes
     img: zhihu
-    title: "TEST"
+    title: "马尔可夫与隐马尔可夫模型"
     authors: Duke Lee
-    # booktitle: Workshop on Speech-Centric Natural Language Processing (SCNLP)
-    # booktitle-url: http://speechnlp.github.io/2017/
-    # venue: workshop
-    doc-url: https://zhuanlan.zhihu.com/p/32414587
+    doc-url: https://zhuanlan.zhihu.com/p/62262733
     abstract: >
       TEST
   - layout: paper

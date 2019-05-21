@@ -13,7 +13,7 @@ Also things about education, economy and management are interesting to me too.
 Enable Humanity
 
 ## Mission
-The only thing that I want to do is to help people around me become better
+The only thing that I want to do is to help **me** and **people around me** become better
 
 ## Principle
 ~~Honesty~~ 

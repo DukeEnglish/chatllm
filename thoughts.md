@@ -8,6 +8,7 @@ order:  7
 
 ## Recent Thoughts
 * **成为一个使自己和自己身边的人更好的人**
+* 很想帮助别人，但是要怎么做。最好的方式应该是让自己变得更好，然后仅仅要做的就是展现在世间就好了。
 * 很多时候最不重要的就是输赢，重要的是我们一起做一些事情,能够在这个世界上留下点什么，能够在我们的人生中留下点什么。
 * 我今天没什么想说的，但是想更新一下。so， done
 * I must work the works of him that sent me, while it is day: the night cometh, when no man can work.

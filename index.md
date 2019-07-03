@@ -20,8 +20,7 @@ The only thing that I want to do is to help **me** and **people around me** beco
 Nature
 
 ## Attention
-学会从手头的事情中发掘乐趣，定期总结发现收益点
-内紧外松
+Who moved my cheese
 
 ## Current Highlights
 

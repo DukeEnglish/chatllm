@@ -11,6 +11,7 @@ order:  2
 > ---The pursuit of happiness
 
 ## Some useful links:
+* [This girl is amazing and I want to learn from her](https://huyenchip.com/list-100/)
 * [Python tutorial(python 2)](http://web.stanford.edu/class/cs224n/readings/python-review.pdf)
 * [使命、愿景、价值观](https://zi.com/w/a/7a6auz)
 * [NLP技术合集](http://nlpprogress.com/)

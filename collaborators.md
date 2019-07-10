@@ -2,7 +2,7 @@
 layout: page
 title:  Collaborators
 cover:  false
-menu:   true
+menu:   false
 order:  3
 ---
 

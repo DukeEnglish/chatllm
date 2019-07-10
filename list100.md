@@ -6,7 +6,8 @@ menu:   true
 order:  3
 ---
 
-I learn one thing today from this [site](https://huyenchip.com/list-100/) which is quite interesting. Therefore, I create my own list and shows here.
+I learn one thing today from this [site](https://huyenchip.com/list-100/) which is quite interesting. Therefore, I create my own todo list here.
+.
 - [ ] Give an English speech
 - [ ] Start an nonprofit organization
 - [ ] See my book being sold at an airport
@@ -32,7 +33,7 @@ I learn one thing today from this [site](https://huyenchip.com/list-100/) which 
 - [ ] Visit 100 countries
 - [ ] Go to South Pole or North Pole
 - [ ] Climb Great Pyramid of Giza, Egypt
-- [ ] Attend TED
+- [ ] Attend TED as a speaker
 - [ ] Meet a prince
 - [ ] show abdominal muscle
 - [ ] Play guitar in the street

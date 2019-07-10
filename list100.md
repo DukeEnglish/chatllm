@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Thoughts
+title:  Todo
 cover:  false
 menu:   true
 order:  3

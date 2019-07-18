@@ -34,8 +34,10 @@ I learn one thing today from this [site](https://huyenchip.com/list-100/) which 
 - [ ] Go to South Pole or North Pole
 - [ ] Climb Great Pyramid of Giza, Egypt
 - [ ] Attend TED as a speaker
-- [ ] Meet a prince
+- [ ] Meet a real nobility
 - [ ] show abdominal muscle
 - [ ] Play guitar in the street
 - [ ] Play guitar for my girl
 - [ ] Learn piano
+- [ ] Own a repository with 1k stars on github
+- [ ] Start a Course for students in the university before 2020

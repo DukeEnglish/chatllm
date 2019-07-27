@@ -17,10 +17,11 @@ papers:
     selected: yes
     img: zhihu
     title: 词向量的两个经典论文的解读
-    authors: Duke Lee
+    authors: Duke Lee 
     doc-url: https://zhuanlan.zhihu.com/p/73949100
     abstract: >
-      本文章对Efficient Estimation of Word Representations in Vector Space和Distributed Representations of Words and Phrases and their Compositionality做了简单的解读。算是对知识的复习吧。
+    本文章对Efficient Estimation of Word Representations in Vector Space
+    和Distributed Representations of Words and Phrases and their Compositionality做了简单的解读。算是对知识的复习吧。
   - layout: paper
     year: 2019
     paper-type: published

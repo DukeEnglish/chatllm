@@ -8,8 +8,7 @@ papers:
     title: 神经阅读理解与超越(Neural Reading Comprehension and Beyond)
     authors: Dr Danqi Chen; Duke Lee (Trans)
     doc-url: https://chendq-thesis-zh.readthedocs.io/en/latest/
-    abstract: >
-    本文主要研究了基于深度神经网络的阅读理解模型。与传统的稀疏的、手工设计的基于特征的模型相比，这些端到端神经模型被证明在学习丰富的语言现象方面更有效，并在很大程度上提高了所有现代阅读理解基准的性能。
+    abstract: emm .
 
   - layout: paper
     year: 2019
@@ -19,9 +18,8 @@ papers:
     title: 词向量的两个经典论文的解读
     authors: Duke Lee 
     doc-url: https://zhuanlan.zhihu.com/p/73949100
-    abstract: >
-    本文章对Efficient Estimation of Word Representations in Vector Space
-    和Distributed Representations of Words and Phrases and their Compositionality做了简单的解读。算是对知识的复习吧。
+    abstract: emm .
+    
   - layout: paper
     year: 2019
     paper-type: published
@@ -31,7 +29,7 @@ papers:
     authors: Duke Lee
     doc-url: https://zhuanlan.zhihu.com/p/62262733
     abstract: >
-      TEST
+      TEST.
   - layout: paper
     year: 2017
     paper-type: published

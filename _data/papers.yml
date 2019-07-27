@@ -6,8 +6,7 @@ papers:
     selected: yes
     # img: 
     title: 神经阅读理解与超越(Neural Reading Comprehension and Beyond)
-    authors: Dr Danqi Chen; 
-    Translator: Duke Lee
+    authors: Dr Danqi Chen; Duke Lee (Trans)
     doc-url: https://chendq-thesis-zh.readthedocs.io/en/latest/
     abstract: 本文主要研究了基于深度神经网络的阅读理解模型。与传统的稀疏的、手工设计的基于特征的模型相比，这些端到端神经模型被证明在学习丰富的语言现象方面更有效，并在很大程度上提高了所有现代阅读理解基准的性能。
   - layout: paper

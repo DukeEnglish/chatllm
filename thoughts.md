@@ -8,6 +8,13 @@ order:  7
 
 ## Recent Thoughts
 * **成为一个使自己和自己身边的人更好的人**
+*   - Idiot? No
+    - A failuere? Absolutely!
+    - Do you know what that makes you? Just like everyone else.
+    - I'm not supposed to be like everyone else, amd I?
+    - Everyone fails at who they're supposed to be, Thor.
+    - The measure of a person, of a hero is how well they succeed at being who they are.
+    - Go and be the man you're meant to be.
 * 一言既出，驷马难追
 * 没必要执着于形式和表象，请你认真思考，以目标为导向
 * 以其昭昭，使人昭昭

@@ -8,6 +8,9 @@ order:  7
 
 ## Recent Thoughts
 * **成为一个使自己和自己身边的人更好的人**
+* 喜欢在别人背后说三道四捏造故事的人，无非是：没有达到人家的层次；人家有他没有的东西；没有能够模仿别人的生活方式。请自省。
+* 只要能够到达目的地，很少有人在乎你是坐飞机还是开拖拉机。
+* 自己想要的东西，要么奋力直追，要么干脆放弃。别总是逢人就喋喋不休地表决心或者哀怨不断，做别人茶余饭后的笑点。
 *   - Idiot? No
     - A failuere? Absolutely!
     - Do you know what that makes you? Just like everyone else.

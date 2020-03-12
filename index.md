@@ -12,7 +12,7 @@ My research interests focus on: **Natural Language Processing** (e.g., Dialogue 
 
 Also things about **Psychology**, **Education**, economy and management are also interesting to me. By our words we will be justified :). 
 
-I'd like to live a vigorous life even with a price of dying poorly.
+I'd like to live a vigorous life even ending with dying poorly.
 
 ## Vision
 Enable Humanity

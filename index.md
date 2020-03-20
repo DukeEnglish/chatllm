@@ -27,6 +27,9 @@ Nature
 ## Attention
 Who moved my cheese
 
+## Recent new
+I might have an invited talked about attention&bert. The slides and video link will be here soon.
+
 ## Current Highlights
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>

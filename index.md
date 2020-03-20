@@ -28,7 +28,7 @@ Nature
 Who moved my cheese
 
 ## Recent news
-2020.Mar I was invited to give an talked about attention&bert. The slides and video link will be here soon. [pdf](https://github.com/DukeEnglish/Dukeenglish.github.io/raw/master/_posts/attention2bert.pdf)
+2020.Mar I was invited to give an talked about attention&bert. The slides and video link will be here soon. [pdf](https://github.com/DukeEnglish/Dukeenglish.github.io/raw/master/_posts/attention2bert.pdf), [video](https://appuaaoe86p4947.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoxMiwicmVzb3VyY2VfdHlwZSI6NCwicmVzb3VyY2VfaWQiOiJsXzVlNzJmNGUxZjNmNWRfVEVFdUJtQXkiLCJwcm9kdWN0X2lkIjoiIiwiYXBwX2lkIjoiYXBwdWFBb2U4NnA0OTQ3IiwiZXh0cmFfZGF0YSI6MH0?entry=3&entry_type=0&state=42ad03a90b56431dbea0398c497a1c3c_3ef49f&app_id=appuaAoe86p4947)
 
 ## Current Highlights
 

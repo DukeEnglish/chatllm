@@ -27,8 +27,8 @@ Nature
 ## Attention
 Who moved my cheese
 
-## Recent new
-I might have an invited talked about attention&bert. The slides and video link will be here soon. [pdf](https://github.com/DukeEnglish/Dukeenglish.github.io/raw/master/_posts/attention2bert.pdf)
+## Recent news
+2020.Mar I was invited to give an talked about attention&bert. The slides and video link will be here soon. [pdf](https://github.com/DukeEnglish/Dukeenglish.github.io/raw/master/_posts/attention2bert.pdf)
 
 ## Current Highlights
 

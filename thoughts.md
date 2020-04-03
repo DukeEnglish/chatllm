@@ -8,6 +8,7 @@ order:  7
 
 ## Recent Thoughts
 * **成为一个使自己和自己身边的人更好的人**
+* 说到做到，勇往直前
 * Don't let your past determine your future
 * 为努力鼓掌，为结果付费
 * 提升自己的时候，最好是按照一定的周期，有节奏的进行，定好目标一定要严格执行

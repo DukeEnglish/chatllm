@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  CV
+title:  Resume
 cover:  false
 menu:   true
 order:  6

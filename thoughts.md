@@ -8,6 +8,7 @@ order:  7
 
 ## Recent Thoughts
 * **成为一个使自己和自己身边的人更好的人**
+* 以不变应万变
 * 说到做到，勇往直前
 * Don't let your past determine your future
 * 为努力鼓掌，为结果付费

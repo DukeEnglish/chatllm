@@ -31,6 +31,7 @@ Who moved my cheese
 
 ## Recent news
 **Apr 2020**
+
 Now, I am holding a shared task about Light Model with NLPCC2020. Welcome to take part in it！[Link](http://tcci.ccf.org.cn/conference/2020/dldoc/taskgline01.pdf)
 
 **Mar 2020**

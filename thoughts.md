@@ -8,6 +8,7 @@ order:  7
 
 ## Recent Thoughts
 * **成为一个使自己和自己身边的人更好的人**
+* 虽然比赛中一子没能在10秒内站起来。在生活中，什么时候站起来，都不会晚。 - 日本电影《百元之恋》
 * 以不变应万变
 * 说到做到，勇往直前
 * Don't let your past determine your future

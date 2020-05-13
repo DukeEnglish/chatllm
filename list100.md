@@ -43,3 +43,4 @@ I learn one thing today from this [site](https://huyenchip.com/list-100/) which 
 - [ ] Start a Course for students in the university before 2024
 - [ ] Develop a NLP toolkit
 - [ ] Handle this google python style [link](https://google.github.io/styleguide/pyguide.html)
+- [ ] Conquer Leetcode

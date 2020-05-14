@@ -38,6 +38,12 @@ Now, I am holding a shared task about Light Model with NLPCC2020. Welcome to tak
 
 I was invited to give an talked about attention&bert. The slides is here. [pdf](https://github.com/DukeEnglish/Dukeenglish.github.io/raw/master/_posts/attention2bert.pdf)
 
+## Professional Service
+- Conference reviews
+	- AACL [2020](http://aacl2020.org/)
+- Shared task holder 
+	- NLPCC [2020](http://tcci.ccf.org.cn/conference/2020/cfpt.php)
+
 ## Current Highlights
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>

@@ -5,7 +5,7 @@ papers:
     selected: yes
     # img: 
     title: "CLUE: A Chinese Language Understanding Evaluation Benchmark (arxiv)"
-    authors: Liang Xu, Xuanwei Zhang, Lu Li, Hai Hu, Chenjie Cao, Weitang Liu, Junyi Li et.al
+    authors: Liang Xu, Xuanwei Zhang, Lu Li, Hai Hu, Chenjie Cao, Weitang Liu, *Junyi Li* et.al
     doc-url: https://arxiv.org/abs/2004.05986
     abstract: We introduce CLUE, a Chinese Language Understanding Evaluation benchmark.
 

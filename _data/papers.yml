@@ -4,6 +4,15 @@ papers:
     paper-type: published
     selected: yes
     # img: 
+    title: Light Pre-Trained Chinese Language Model for NLP Tasks
+    authors: Junyi Li, Hai Hu, Xuanwei Zhang, Minglei Li, Lu Li, and Liang Xu
+    # doc-url: 
+    abstract: "We present the results of shared-task 1 held in the 2020 Conference on Natural Language Processing and Chinese Computing (NLPCC): Light Pre-Trained Chinese Language Model for NLP tasks."
+  - layout: paper
+    year: 2020
+    paper-type: published
+    selected: yes
+    # img: 
     title: "CLUE: A Chinese Language Understanding Evaluation Benchmark (arxiv)"
     authors: Liang Xu, Xuanwei Zhang, Lu Li, Hai Hu, Chenjie Cao, Weitang Liu, *Junyi Li* et.al
     doc-url: https://arxiv.org/abs/2004.05986

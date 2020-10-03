@@ -3,8 +3,12 @@ before-pubs:
     heading: Appointments
     items:
       -
+        title: Ads Algorithm Engineer
+        year: 2020.8 &ndash; present
+        detail: ByteDance 
+      -
         title: NLP Algorithm Engineer
-        year: 2018.1 &ndash; present
+        year: 2018.1 &ndash; 2019.1
         detail: Meituan-Dianping
       -
         title: AI Internship

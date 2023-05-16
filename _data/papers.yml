@@ -4,9 +4,18 @@ papers:
     paper-type: published
     selected: yes
     img: zhihu
-    title: 入门与 Follow GPT 的路径分析：LLM 道阻且长，行则将至
+    title: 【官方技术公众号】入门与 Follow GPT 的路径分析：LLM 道阻且长，行则将至
     authors: Duke Lee 
     doc-url: https://mp.weixin.qq.com/s/0iq7uCJeq72VN69fyPZQtw
+    abstract: emm .
+  - layout: paper
+    year: 2023
+    paper-type: published
+    selected: yes
+    img: zhihu
+    title: 【知乎】如何建立自己对GPT的认知
+    authors: Duke Lee 
+    doc-url: https://zhuanlan.zhihu.com/p/627641026
     abstract: emm .
 
   - layout: paper

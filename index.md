@@ -30,18 +30,15 @@ Nature
 Who moved my cheese
 
 ## Recent news
-**Apr 2020**
-
-Now, I am holding a shared task about Light Model with NLPCC2020. Welcome to take part in it！[Link](http://tcci.ccf.org.cn/conference/2020/dldoc/taskgline01.pdf)
-
-**Mar 2020**
-
-I was invited to give an talked about attention&bert. The slides is here. [pdf](https://github.com/DukeEnglish/Dukeenglish.github.io/raw/master/_posts/attention2bert.pdf)
+**May 2022**
+[如何入门 GPT 并快速跟上当前的大语言模型 LLM 进展？](https://www.zhihu.com/question/599713780/answer/3018222382)
+字节跳动技术团队公众号发布见：https://mp.weixin.qq.com/s/0iq7uCJeq72VN69fyPZQtw
 
 ## Professional Service
 - Conference reviewer
-	- AACL [2020](http://aacl2020.org/)
-    - EMNLP [2021](https://2021.emnlp.org/)
+	- ACL
+  - AACL
+  - EMNLP
 - Shared task holder 
 	- NLPCC [2020](http://tcci.ccf.org.cn/conference/2020/cfpt.php)
     - NLPCC [2021](http://tcci.ccf.org.cn/conference/2021/cfpt.php)

@@ -1,4 +1,14 @@
 papers:
+ - layout: paper
+    year: 2023
+    paper-type: published
+    selected: yes
+    img: zhihu
+    title: 入门与 Follow GPT 的路径分析：LLM 道阻且长，行则将至
+    authors: Duke Lee 
+    doc-url: https://mp.weixin.qq.com/s/0iq7uCJeq72VN69fyPZQtw
+    abstract: emm .
+
   - layout: paper
     year: 2020
     paper-type: published
@@ -8,6 +18,7 @@ papers:
     authors: Junyi Li, Hai Hu, Xuanwei Zhang, Minglei Li, Lu Li, and Liang Xu
     # doc-url: 
     abstract: "We present the results of shared-task 1 held in the 2020 Conference on Natural Language Processing and Chinese Computing (NLPCC): Light Pre-Trained Chinese Language Model for NLP tasks."
+
   - layout: paper
     year: 2020
     paper-type: published
